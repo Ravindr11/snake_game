@@ -37,7 +37,7 @@ score = 0
 
 snake_x = 300
 snake_y = 200
-snake_velocity = 4
+snake_velocity = 5
 snake_velocity_x = 5
 snake_velocity_y = 0
 snake_size = 15
