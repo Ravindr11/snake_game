@@ -138,6 +138,11 @@ def init_game():
     #Creating a initial food
     pygame.draw.rect(gameWindow, food_color, [food_x, food_y, snake_size, snake_size])  #FOOD
 
+    # giving the initial length
+    for i in range(snake_length):
+        moving_forward()
+        eat_food()
+
 # def exit_window() 
 
 
