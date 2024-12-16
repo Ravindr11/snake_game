@@ -41,7 +41,7 @@ snake_velocity = 5
 snake_velocity_x = 5
 snake_velocity_y = 0
 snake_size = 15
-snake_length = 1
+snake_length = 10
 snake_list = [[snake_x, snake_y]]
 
 snake_eat_sound = "eat.mp3"
